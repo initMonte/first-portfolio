@@ -1,8 +1,5 @@
 # initMonte.github.io
 
--English at the beggining
--Español al final
-
 ## English
 
 This was my first real website where i practiced some HTML ans CSS, attempting to create some neat visual effects without using any library or JavaScript.
