@@ -10,7 +10,7 @@ It was supposed to served as my "portfolio" initially, although the "projects" s
 
 [Link to the website](https://initMonte.github.io/)
 
-### /English
+___
 
 ## Español
 
@@ -18,5 +18,3 @@ Este fue mi primer sitio web real, en el cual practique algo de HTML y CSS, trat
 Se suponia que iba a servir de "porfolio" en los comienzos, aunque la parte de "proyectos" nunca fue terminada debido a que no tenia otros en ese momento, y luego cree otro cuando empece a buscar trabajo.
 
 [Link al sitio web](https://initMonte.github.io/)
-
-### /Español
